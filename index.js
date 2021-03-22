@@ -17,7 +17,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 
-//market routes
+//online payment routes
 app.use('/online_payment', online_payment_routes);
 
 //404 error
