@@ -1,10 +1,10 @@
-# Market Service
+# Online Payment Service
 
 ## Info
 Online payment service is responsible for dealing with banks APIs, and all online payments operations. 
 
 
-## Online Payment Service Endpoints
+## Service Endpoints
 
 
 ```http
