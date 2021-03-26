@@ -4,7 +4,7 @@
 Online payment service is responsible for dealing with banks APIs, and all online payments operations. 
 
 
-## Service Endpoints
+## Service Endpoint
 
 
 ```http
